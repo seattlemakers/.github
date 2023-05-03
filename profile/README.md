@@ -1,4 +1,4 @@
-![Seattle Makers](img/logo.png)
+![Seattle Makers](profile/img/logo.png)
 
 [Seattle Makers](https://seattlemakers.org) is a maker space located in the Wallingford neighborhood of Seattle, WA, located at [3300 Wallingford Ave N.](https://g.page/seattlemakershq?share) where we help you make things you want to make.  
 
