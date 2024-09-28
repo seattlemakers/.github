@@ -1,4 +1,4 @@
-![Seattle Makers](profile/img/logo.png)
+![Seattle Makers](img/logo.png)
 
 [Seattle Makers](https://seattlemakers.org) is a maker space located in the Interbay neighborhood of Seattle, WA, located at [3012 16th Ave W, 
 Seattle, WA 98119](https://g.page/seattlemakershq?share) where we help you make things you want to make.  
