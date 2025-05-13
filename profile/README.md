@@ -5,4 +5,4 @@
 In this org you can find code written by our community for both space related projects, personal projects of members, and class related code.
 
 ## Access to the Seattle Makers GitHub Org
-If you are a member of the Seattle Makers community, you can reach out to Sean Smith via slack and he can work on getting you invited into the org and with any repo setup you may need.
+If you are a member of the Seattle Makers community, you can reach out to `Marc S` via discord and he can work on getting you invited into the org and with any repo setup you may need.
